@@ -1,8 +1,6 @@
 {
-   "default_locale": "en",
-   "description": "__MSG_appDesc__",
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCjKAqPrZ5SbcEUgQLIah5edVOk4Uvqid818or/N5yWh62Nf4XQdDlNAHLqJsDRW1IEaEsqQD+LCUqpmiTxN1zImD1CZ2mmtKjQnSENE9FCWOZ+tXFc/k28ggJn95bh5f9kLxAICqiFjZMNGn81p/n6QZvls4J4GEDxWHunmTasvQIDAQAB",
-   "name": "__MSG_appName__",
+   "description": "Open-source update of Hay Hsu's popular chrome theme.",
+   "name": "Raindrops 2",
    "theme": {
       "colors": {
          "button_background": [ 255, 255, 255 ],
@@ -27,6 +25,5 @@
          "buttons": [ -1, -1, -1 ]
       }
    },
-   "update_url": "http://clients2.google.com/service/update2/crx",
    "version": "1.0.0.2"
 }
