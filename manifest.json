@@ -1,0 +1,32 @@
+{
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCjKAqPrZ5SbcEUgQLIah5edVOk4Uvqid818or/N5yWh62Nf4XQdDlNAHLqJsDRW1IEaEsqQD+LCUqpmiTxN1zImD1CZ2mmtKjQnSENE9FCWOZ+tXFc/k28ggJn95bh5f9kLxAICqiFjZMNGn81p/n6QZvls4J4GEDxWHunmTasvQIDAQAB",
+   "name": "__MSG_appName__",
+   "theme": {
+      "colors": {
+         "button_background": [ 255, 255, 255 ],
+         "frame": [ 77, 139, 217, 0.5 ],
+         "ntp_link": [ 6, 55, 116 ],
+         "ntp_section": [ 229, 239, 254, 0.4 ],
+         "ntp_text": [ 0, 0, 0 ],
+         "toolbar": [ 255, 255, 255 ]
+      },
+      "images": {
+         "theme_frame": "images/frame.png",
+         "theme_ntp_attribution": "images/attribution_w.png",
+         "theme_ntp_background": "images/bg.png",
+         "theme_toolbar": "images/toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat",
+         "ntp_logo_alternate": 0
+      },
+      "tints": {
+         "buttons": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.2"
+}
