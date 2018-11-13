@@ -1,29 +1,85 @@
 {
-   "description": "Open-source update of Hay Hsu's popular chrome theme.",
-   "name": "Raindrops 2",
-   "theme": {
-      "colors": {
-         "button_background": [ 255, 255, 255 ],
-         "frame": [ 77, 139, 217, 0.5 ],
-         "ntp_link": [ 6, 55, 116 ],
-         "ntp_section": [ 229, 239, 254, 0.4 ],
-         "ntp_text": [ 0, 0, 0 ],
-         "toolbar": [ 255, 255, 255 ]
-      },
-      "images": {
-         "theme_frame": "images/frame.png",
-         "theme_ntp_attribution": "images/attribution_w.png",
-         "theme_ntp_background": "images/bg.png",
-         "theme_toolbar": "images/toolbar.png"
-      },
-      "properties": {
-         "ntp_background_alignment": "bottom",
-         "ntp_background_repeat": "no-repeat",
-         "ntp_logo_alternate": 0
-      },
-      "tints": {
-         "buttons": [ -1, -1, -1 ]
-      }
-   },
-   "version": "1.0.0.2"
+  "manifest_version": 2,
+  "name": "Raindrops 2",
+  "description": "Open-source update of Hay Hsu's popular chrome theme.",
+  "version": "1.1.0",
+  "theme": {
+    "colors": {
+      "button_background": [
+        255,
+        255,
+        255
+      ],
+      "frame": [
+        77,
+        139,
+        217,
+        0.5
+      ],
+      "ntp_link": [
+        6,
+        55,
+        116
+      ],
+      "ntp_section": [
+        229,
+        239,
+        254,
+        0.4
+      ],
+      "ntp_text": [
+        0,
+        0,
+        0
+      ],
+      "toolbar": [
+        255,
+        255,
+        255
+      ],
+      "tab_text": [
+        0,
+        0,
+        0
+      ]
+    },
+    "images": {
+      "theme_frame": "images/frame.png",
+      "theme_ntp_attribution": "images/attribution_w.png",
+      "theme_ntp_background": "images/bg.png",
+      "theme_toolbar": "images/toolbar.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    },
+    "tints": {
+      "frame": [
+        -1,
+        -1,
+        0.4
+      ],
+      "frame_inactive": [
+        -1,
+        0.2,
+        0.4
+      ],
+      "frame_incognito": [
+        -1,
+        -1,
+        0.3
+      ],
+      "frame_incognito_inactive": [
+        -1,
+        0.2,
+        0.3
+      ],
+      "buttons": [
+        -1,
+        -1,
+        0.6
+      ]
+    }
+  }
 }
